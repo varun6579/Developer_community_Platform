@@ -68,7 +68,7 @@ frontend/
 │── services/
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/devconnect.git
+git clone https://github.com/varun5679/devconnect.git
 cd devconnect
 2. Setup Backend
 cd backend
@@ -132,7 +132,7 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 📧 Contact
 
 For any queries or collaboration:
-📩 your-email@example.com
+📩 varuntejbommeraboina@gmail.com
 
 ⭐ Show Your Support
 
